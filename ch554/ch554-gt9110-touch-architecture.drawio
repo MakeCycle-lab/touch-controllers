@@ -1,0 +1,58 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/29.6.6 Chrome/144.0.7559.236 Electron/40.8.4 Safari/537.36" version="29.6.6">
+  <diagram name="第 1 页" id="qIt20EYJMXckFdVrq1Q9">
+    <mxGraphModel dx="888" dy="522" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#313131" math="0" shadow="1">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="U5fzQbTingNDZtaU_i2p-2" edge="1" parent="1" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;rounded=0;labelBackgroundColor=none;fontColor=default;" value="">
+          <mxGeometry height="100" relative="1" width="100" as="geometry">
+            <mxPoint x="362" y="509.6600000000001" as="sourcePoint" />
+            <mxPoint x="458" y="510" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="U5fzQbTingNDZtaU_i2p-5" connectable="0" parent="U5fzQbTingNDZtaU_i2p-2" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;" value="&amp;nbsp; I2C&amp;nbsp;&amp;nbsp;" vertex="1">
+          <mxGeometry relative="1" x="0.0827" y="5" as="geometry">
+            <mxPoint x="-2" y="-5" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="U5fzQbTingNDZtaU_i2p-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;" value="CH554&lt;div&gt;CONTROLLER&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="86" x="266" y="480" as="geometry" />
+        </mxCell>
+        <mxCell id="U5fzQbTingNDZtaU_i2p-7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;" value="GT9110&lt;div&gt;DRIVER&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="90" x="471" y="480" as="geometry" />
+        </mxCell>
+        <mxCell id="U5fzQbTingNDZtaU_i2p-8" parent="1" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;" value="TOUCH&lt;div&gt;SCREEN&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="86" x="671" y="480" as="geometry" />
+        </mxCell>
+        <mxCell id="U5fzQbTingNDZtaU_i2p-9" edge="1" parent="1" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;rounded=0;labelBackgroundColor=none;fontColor=default;" value="">
+          <mxGeometry height="100" relative="1" width="100" as="geometry">
+            <mxPoint x="571" y="509.71000000000004" as="sourcePoint" />
+            <mxPoint x="661" y="509.71000000000004" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="U5fzQbTingNDZtaU_i2p-10" connectable="0" parent="U5fzQbTingNDZtaU_i2p-9" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;" value="TX/RX" vertex="1">
+          <mxGeometry relative="1" x="0.0827" y="5" as="geometry">
+            <mxPoint x="-9" y="-5" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="U5fzQbTingNDZtaU_i2p-12" edge="1" parent="1" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;rounded=0;labelBackgroundColor=none;fontColor=default;" value="">
+          <mxGeometry height="100" relative="1" width="100" as="geometry">
+            <mxPoint x="252" y="509.71000000000004" as="sourcePoint" />
+            <mxPoint x="172" y="510" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="U5fzQbTingNDZtaU_i2p-14" connectable="0" parent="U5fzQbTingNDZtaU_i2p-12" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;fontSize=11;labelBackgroundColor=none;fillColor=none;" value="HID" vertex="1">
+          <mxGeometry relative="1" x="-0.0485" y="-2" as="geometry">
+            <mxPoint x="-2" y="-8" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="U5fzQbTingNDZtaU_i2p-13" parent="1" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;" value="USB" vertex="1">
+          <mxGeometry height="60" width="90" x="71" y="480" as="geometry" />
+        </mxCell>
+        <mxCell id="U5fzQbTingNDZtaU_i2p-15" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;" value="USB HID capacitive touchscreen architecture diagram based on CH554 and GT9110" vertex="1">
+          <mxGeometry height="30" width="470" x="179" y="570" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
